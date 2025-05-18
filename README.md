@@ -1,13 +1,13 @@
 
-# 🚀 TaskFlow - Task Management System (MERN Stack)  
+# 🚀 Task Manager - Task Management System (MERN Stack)  
 
-**TaskFlow** is an advanced **Task Management System** built using the **MERN stack (MongoDB, Express.js, React, Node.js)** to help individuals and teams efficiently manage their tasks, track progress, and collaborate in real time.  
+**Task Manager** is an advanced **Task Management System** built using the **MERN stack (MongoDB, Express.js, React, Node.js)** to help individuals and teams efficiently manage their tasks, track progress, and collaborate in real time.  
 
-This system provides **seamless task organization**, **deadline tracking**, **role-based user access**, and **interactive dashboards** to boost productivity. With a **Kanban board**, **task analytics**, and **calendar scheduling**, TaskFlow ensures smooth workflow management for both users and administrators.  
+This system provides **seamless task organization**, **deadline tracking**, **role-based user access**, and **interactive dashboards** to boost productivity. With a **Kanban board**, **task analytics**, and **calendar scheduling**, Task Manager ensures smooth workflow management for both users and administrators.  
 
 Admins can manage users, approve tasks, and monitor team performance, while users can create, prioritize, and complete tasks effortlessly. **Real-time notifications, drag-and-drop functionality, and a responsive UI** enhance the user experience.  
 
-Whether you're managing personal tasks or collaborating with a team, **TaskFlow** streamlines your workflow and keeps you ahead of deadlines. 🚀✅
+Whether you're managing personal tasks or collaborating with a team, **Task Manager** streamlines your workflow and keeps you ahead of deadlines. 🚀✅
 
 
 ---
@@ -86,8 +86,8 @@ Whether you're managing personal tasks or collaborating with a team, **TaskFlow*
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/taskflow.git  
-cd taskflow
+git clone https://github.com/Ramprasanth7119/task-manager.git  
+cd Task Manager
 ```
 
 ### 2️⃣ Install Dependencies  
@@ -160,9 +160,7 @@ npm install bcryptjs cors dotenv express
 npm i jsonwebtoken mongoose
 npm install crypto nodemailer
 ```
-## Deployment Link  
-https://zidio-task-management-system.vercel.app/
----
+
 
 ## 🚀 Features Breakdown  
 
@@ -188,4 +186,4 @@ https://zidio-task-management-system.vercel.app/
 
 ---
 
-**🚀 TaskFlow - Your Productivity, Simplified!** 💡✨  
+**🚀 Task Manager - Your Productivity, Simplified!** 💡✨  
